@@ -1,0 +1,9 @@
+[submodule "fritzing-app"]
+	path = fritzing-app
+	url = https://github.com/squix78/fritzing-app
+[submodule "eagle2fritzing"]
+	path = eagle2fritzing
+	url = https://github.com/squix78/eagle2fritzing
+[submodule "fritzing-parts"]
+	path = fritzing-parts
+	url = https://github.com/fritzing/fritzing-parts
